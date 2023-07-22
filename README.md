@@ -1,4 +1,4 @@
-# Stock-mark-prediction
+# Stock-market-prediction
 
 We will take the GOOGLE stocks price from 2012 and till now and predict the trend of the stocks.
 
